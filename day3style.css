@@ -1,0 +1,35 @@
+.mypage{
+    text-align: center;
+    background-color: yellow;}   
+.image{
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.9IbWV0Z4WKOY-9sNwZGfzwHaEK&pid=Api&P=0&h=180);
+    width: 250;
+    min-height: 50vh;
+    background-size: cover;
+    background-position: center;
+    border: 0cap;   
+}
+.heading{
+    text-align: center;
+    padding: 0 10vh;
+    color: black;
+    bottom: 5%;
+}
+.para{
+    color: black;
+    background-color: red;
+}
+.image2{
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.FrRABBKAbSwd6zfF9cExeAHaEK&pid=Api&P=0&h=180);
+    background-position: left;
+    background-size: cover;
+    width: 50vh;
+    height: 25vh;  
+}
+.h2{
+    text-align: left;
+}
+.list{
+    text-align: left;   
+}
+

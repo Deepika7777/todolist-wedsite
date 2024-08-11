@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url(https://tse1.explicit.bing.net/th?id=OIP.eD9-ocppLL5dduPpP7lzPAHaEK&pid=Api&P=0&h=180);
+    background-size: cover;}
+.form-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;}
+form {
+    display: flex;
+    flex-direction: column;}
+h2 {
+    margin-bottom: 20px;
+    text-align: center;}
+label {
+    margin-bottom: 5px; font-weight: bold;}
+input, textarea, select {
+    margin-bottom: 15px;
+    padding: 10px;  border: 1px solid #ccc;
+    border-radius: 4px; width: 100%;
+    box-sizing: border-box;}
+button {
+    background-color: #5cb85c;
+    color: white;
+    padding: 10px;  border: none;
+    border-radius: 4px; cursor: pointer;}
+button:hover {
+    background-color: #4cae4c;}
+

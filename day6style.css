@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;  padding: 0;
+    background-color: #f4f4f4;}
+header {
+    background-color: #333;
+    color: #fff;   padding: 20px 0;
+    text-align: center;}
+header h1 {
+    margin: 0;}
+header p {
+    margin: 10px 0 0;
+    font-size: 1.2em;}
+.container {
+    width: 80%;  margin: 0 auto;
+    overflow: hidden;}
+section {
+    padding: 20px 0;}
+section h2 {
+    margin-top: 0;}
+#about p, #projects ul, #contact p {
+    margin: 10px 0;}
+#projects ul {
+    list-style-type: none;
+    padding: 0;}
+#projects li {
+    background-color: #fff;   margin: 10px 0;
+    padding: 10px;   border: 1px solid #ddd;}
+#projects h3 {
+    margin: 0 0 10px;}
+footer {
+    background-color: #333;
+    color: #fff;  text-align: center;
+    padding: 10px 0;  position: absolute;
+    bottom: 0;  width: 100%;}
+footer p {  margin: 0;}
